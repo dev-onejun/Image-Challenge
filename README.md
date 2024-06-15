@@ -1,3 +1,6 @@
+[TO THE PARENT DIRECTORY](https://github.com/dev-onejun/ComputerVision)
+
+
 # Challenges
 
 **UPDATE** Transformers like ViT and CLIP are prohibited !!!
